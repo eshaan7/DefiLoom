@@ -2,6 +2,8 @@
 
 A CLI tool that uses PowerLoom's DeFi API to discover Arbitrage and LP APY opportunities.
 
+Submitted as part of [ETHIndia 2022, Bangalore, India](https://ethindia.co/).
+
 ## Demo
 
 [![Demo on asciicast](https://asciinema.org/a/542338.svg)](https://asciinema.org/a/542338)
