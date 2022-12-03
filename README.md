@@ -11,7 +11,7 @@ A CLI tool that uses PowerLoom's DeFi API to discover Arbitrage and LP APY oppor
 ```bash
 $ git clone https://github.com/eshaan7/DefiLoom
 $ cd DefiLoom/
-$ DefiLoom >> pip install -e .\[dev]
+$ DefiLoom >> pip install .
 ```
 
 ## Configuration / Basic Usage
